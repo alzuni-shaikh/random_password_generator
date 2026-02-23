@@ -18,7 +18,18 @@ https://alzuni-shaikh.github.io/random_password_generator/
 
 ✅ Clean and minimal UI
 
-✅ Fully responsive design
+✅ Fully responsive design  
+
+🆕 Latest Update
+🌙 Light & Dark Mode Feature Added
+
+Users can now switch between Light Mode and Dark Mode
+
+Theme preference is saved automatically
+
+Smooth and clean UI transition
+
+Improved overall user experience
 
 🛠️ Built With
 
