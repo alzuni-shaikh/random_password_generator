@@ -84,3 +84,30 @@ body{
  right: -300px;
 }
 
+/* Light Mode (Default) */
+body {
+    background-color: #fce4ec;
+    color: #000;
+}
+
+/* Dark Mode */
+body.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+body.dark-mode .container {
+    background-color: #1e1e1e;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+}
+
+body.dark-mode input {
+    background-color: #333;
+    color: white;
+    border: 1px solid #555;
+}
+
+body.dark-mode button {
+    background-color: #444;
+    color: white;
+}
